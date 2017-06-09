@@ -13,7 +13,7 @@ Since the scale of data was quite large and transactional databases store data a
 Another project was to automate the scheduling process for inserting drop-out advertising
 (National advertisers like Kohl¡¯s, Macy prefer this advertising). Originally we linked tables into MS Access from SQL Server, which produced a printable schedule, but this was only useful for reporting to sales groups. The real need was for production who had to manually copy and reformat into Excel for the production floor. Using VBA in Access  I wrote a program that would automate and transfer database to Excel, after loading into Excel using VBA and cell formula transfer. The data was re-styled to that specific production groups format. This reduced time significantly (man-days to a few seconds¡­remember we have 150 pubs).
 
-Note there is also a code re-factoring example where during the development process I originally brute force developed the code in VBA.
+Note there is also a notable code re-factoring example where during the development process I originally brute force developed the Insert Tracking code in VBA by direct manipulation of the Excel Spreadsheet (over 500 lines of code).
 
 These solutions are quite complex and the means of documenting them was accomplished by using a framework called JOOMLA. This enabled me to build and develop an intranet website based on Apache, MySQL and PHP that was easy to administer. To further enhance IT project communication a MediaWiki plug-in was also installed.
 
