@@ -1,4 +1,7 @@
-
+/*****This File while impressively long was quite easy to create using the power of automatic code generation via the 
+SQL Designer built into SQL Server and is essentially continuously nested sub-queries to ultimately produce a very large table.
+rather than using MIles recommendation of complex joins to extract report data and relying on SQL Server to "find its way" we
+force it to produce simple joins cascading to the next created table to improve performance*****/
 USE [CNC-FPReports]
 GO
 /****** Object: StoredProcedure [dbo].[slp_CNC_Order_Extract_Using_CC_SubQueries_w_Planned_Advert] Script Date:
