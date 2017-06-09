@@ -2,7 +2,7 @@
 
 ### Background:
 
-At Gatehouse Media NE there are 150 publications and their corresponding websites. The business process produces millions of records/transactions on thousands of accounts in real-time for display, classified and web advertising 7 days per week. 
+At _Gatehouse Media NE_ there are 150 publications and their corresponding websites. The business process produces millions of records/transactions on thousands of accounts in real-time for display, classified and web advertising 7 days per week. 
 
 In my capacity as a programmer, developed a multitude of Crystal Reports based on user needs from a variety of data sources. Using ETL software like DTS (SQL Server) and XML/XSLT, utilized tools to deal with structured data (Excel and Access) as well as un-structured  data or documents like Word.
 
