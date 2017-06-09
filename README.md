@@ -1,6 +1,6 @@
 
 
-####Background:
+#### Background:
 
 At Gatehouse Media NE there are 150 publications and their corresponding websites. The business process produces millions of records/transactions on thousands of accounts in real-time for display, classified and web advertising 7 days per week. 
 
