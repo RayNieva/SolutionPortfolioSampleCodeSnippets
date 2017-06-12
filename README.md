@@ -16,4 +16,4 @@ Note there is also a notable _code re-factoring_ example where during the develo
 
 These solutions are quite complex and the means of documenting them was accomplished by using a framework called _JOOMLA_. This enabled building and developing an intranet website based on _Apache, MySQL and PHP_ that was easy to administer. To further enhance IT project communication a MediaWiki plug-in was also installed.
 
-Simultaneously with _programming and DB admin_ responsibilities (monitoring mission critical systems) my function is to provide _helpdesk support_ for our advertising and related production and financial systems via _virtualization_ and our Wickett ticket system. This covers multiple sites from _Danvers to the Cape and west to Auburn_.
+Simultaneously with _programming and DB admin_ responsibilities (monitoring mission critical systems) my function is to provide _helpdesk support_ for our advertising and related production and financial systems via _virtualization_ and the Wickett ticket system (an on-premise SQL Server based system). This covers multiple sites from _Danvers to the Cape and west to Auburn_.
